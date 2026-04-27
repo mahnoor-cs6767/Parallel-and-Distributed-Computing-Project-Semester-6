@@ -16,7 +16,7 @@ The project provides an experimental platform to **train models, analyze executi
 It also includes **performance evaluation and hyperparameter tuning** to enhance model efficiency.
 
 The project includes:
-- **Environment setup** and installation verification
+- **Environment setup and installation verification**
 - **Normal (sequential) model training implementation**  
 - **Parallel model training using Ray framework**  
 - **Performance comparison and speedup analysis**  
@@ -45,7 +45,7 @@ The project includes:
 | **Task 4** | Performance comparison between sequential and parallel execution |
 | **Task 5** | Hyperparameter tuning for better performance |
 | **Task 6** | Visualization of results using graphs |
-| **Phase 2** | Evaluation of speedup and efficiency improvements |
+| **Task 7** | Evaluation of speedup and efficiency improvements |
 
 ---
 
